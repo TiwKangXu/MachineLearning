@@ -1,0 +1,1 @@
+1 layer of conv2d and dense is used initially, with accuracy < 0.1. Considering the large number of features (30 * 30 * 3), I added one more layer of conv2d and dense, and hit accuracy of 0.9.
